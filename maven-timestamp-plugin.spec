@@ -1,6 +1,6 @@
 Name:           maven-timestamp-plugin
 Version:        1.0
-Release:        6
+Release:        8
 Summary:        Provides formatted timestamps for maven builds
 
 Group:          Development/Java
