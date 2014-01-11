@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:           maven-timestamp-plugin
 Version:        1.1
-Release:        9.0%{?dist}
+Release:        9.1%{?dist}
 Summary:        Provides formatted timestamps for maven builds
 License:        ASL 2.0
 URL:            http://code.google.com/p/maven-timestamp-plugin
