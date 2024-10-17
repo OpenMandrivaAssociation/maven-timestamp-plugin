@@ -4,7 +4,7 @@ Version:        1.1
 Release:        9.1%{?dist}
 Summary:        Provides formatted timestamps for maven builds
 License:        ASL 2.0
-URL:            http://code.google.com/p/maven-timestamp-plugin
+URL:            https://code.google.com/p/maven-timestamp-plugin
 ### upstream only provides binaries or source without build scripts
 # tar creation instructions
 # svn export http://maven-timestamp-plugin.googlecode.com/svn/tags/maven-timestamp-plugin-1.1 maven-timestamp-plugin
